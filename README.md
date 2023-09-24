@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sagkun343, a student of BP Poddar Institute of Management and Technology
+- 👋 Hi, I’m Sagnik Kundu, a student of BP Poddar Institute of Management and Technology
 - 👀 I’m interested in compettitive programming, Machine Learning and Low level Optimization.
 - 🌱 I’m currently learning web development and machine learning.
 - 💞️ I’m looking to collaborate on Web development.
